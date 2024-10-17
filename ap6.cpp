@@ -39,7 +39,7 @@ int isiArray(int array[]) {
  if (adaDuplikasi) {
     cout << "Tidak ada angka yang sama dalam array" << endl;
  }
-// TES GIT  
+// TES GIT  2
 
 }
 //fungsi untuk menghitung total dan 
