@@ -39,6 +39,8 @@ int isiArray(int array[]) {
  if (adaDuplikasi) {
     cout << "Tidak ada angka yang sama dalam array" << endl;
  }
+// TES GIT  
+
 }
 //fungsi untuk menghitung total dan 
 // menampilkan rata-arat
